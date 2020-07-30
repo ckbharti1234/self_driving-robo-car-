@@ -31,7 +31,7 @@ python drive.py model.h5
 
 #### 3. Readability
 
-The self_driving_car.py/Self_Driving_Car.ipynb file contains the code for training and saving the convolution neural network. The file shows the pipeline used for training and validating the model, and it contains comments to explain how the code works. The tutorial for the project is [here](https://medium.com/@manajitpal/deep-learning-for-self-driving-cars-7f198ef4cfa2).
+The self_driving_car.py/Self_Driving_Car.ipynb file contains the code for training and saving the convolution neural network. The file shows the pipeline used for training and validating the model, and it contains comments to explain how the code work.
 
 ### Model Architecture
 
